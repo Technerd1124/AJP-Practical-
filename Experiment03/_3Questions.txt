@@ -1,0 +1,4 @@
+1.	State the difference between list and choice control
+2.	Write the use of getSelectedItem() and getSelectedIndex()
+3.	Develop a applet using list components to add names of 10 different cities
+4.	Develop applet to select multiple names of news paper
